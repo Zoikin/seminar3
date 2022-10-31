@@ -20,6 +20,14 @@ init_status_add_commit_log (oneline_all)_checkout_dif
 
     add имя файла
 
+##  Сохранение изменений 
+
+Для соранение изменений необходимо выполнить команду:
+
+    git commit
+
+
+
 
 
 
