@@ -39,7 +39,9 @@ init_status_add_commit_log (oneline_all)_checkout_dif
     git log --oneline
 
 
+*Чтобы посмотреть весь журнал изменений (коммитов), независимо на каком коммите мы сейчас находимся необходимо набрать команду:*
 
+    git log --all
 
 
 
