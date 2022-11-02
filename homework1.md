@@ -69,4 +69,6 @@
 
 Для создания новой ветки используется команда:
 
-git branch <<branch name>>
+git branch <branch_name>
+
+## Слияние веток
